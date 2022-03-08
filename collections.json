@@ -109,12 +109,8 @@ response: json
     "name": null,
     "salary": 100
 }
-
-
-
-
 /object_info_4
-EP_6 `Method: GET`  `EndPoint: /object_info_4`
+  EP_6 `Method: GET`  `EndPoint: /object_info_4`
 
 request url params: `name: str` `age: int` `salary: int`
 
